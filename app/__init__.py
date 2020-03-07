@@ -1,0 +1,1 @@
+from .peasant import peasant
